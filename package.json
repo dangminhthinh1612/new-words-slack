@@ -1,0 +1,14 @@
+{
+  "name": "new-words-slack",
+  "version": "1.0.0",
+  "description": "Learn new words with Slack app",
+  "main": "index.js",
+  "repository": "git@github.com:dangminhthinh1612/new-words-slack.git",
+  "author": "Dang Minh Thinh <d-thinh@ruby-dev.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1",
+    "firebase": "^9.9.1",
+    "firebase-tools": "^11.4.0"
+  }
+}
